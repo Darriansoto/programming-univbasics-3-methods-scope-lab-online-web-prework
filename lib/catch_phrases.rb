@@ -2,7 +2,7 @@ def mario
   status = 'Thank You Mario! But Our Princess Is In Another Castle!'
   puts phrase
   puts "It's-a me, Mario!"
-  "It's-a me, Mario!"
+  return "It's-a me, Mario!"
 end
 
 def toadstool
